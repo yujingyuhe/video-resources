@@ -1,0 +1,143 @@
+VIDEO RESOURCES · Short demo media credits
+This short product demo shows an isolated demo library. The recorded screens include still frames from edited source clips.
+本短片的实机录屏使用隔离演示库。以下署名包括界面缩略图中出现的演示片段。
+
+01 金色海岸
+File:Big-sur.webm
+作者：Sora/OpenAI
+作品：https://commons.wikimedia.org/wiki/File:Big-sur.webm
+许可：Public domain 
+改动：Extract from 0 seconds, up to 12 seconds; silent H.264, longest edge at most1920; crop=none; no generative substitution.
+
+03 曼哈顿夜航
+File:Aerial views of Downtown Manhattan, New York City, USA at night including Battery Park, Freedom Tower, Wall Street, The Oculus, West Side Highway and Hudson River.webm
+作者：the Dronalist
+作品：https://commons.wikimedia.org/wiki/File:Aerial_views_of_Downtown_Manhattan,_New_York_City,_USA_at_night_including_Battery_Park,_Freedom_Tower,_Wall_Street,_The_Oculus,_West_Side_Highway_and_Hudson_River.webm
+许可：CC BY 3.0 https://creativecommons.org/licenses/by/3.0
+改动：Extract from 0 seconds, up to 12 seconds; silent H.264, longest edge at most1920; crop=none; no generative substitution.
+
+04 山谷瀑布
+File:Waterfall in Huascarán National Park - Peru.webm
+作者：CorraleH
+作品：https://commons.wikimedia.org/wiki/File:Waterfall_in_Huascar%C3%A1n_National_Park_-_Peru.webm
+许可：CC0 http://creativecommons.org/publicdomain/zero/1.0/deed.en
+改动：Extract from 0 seconds, up to 12 seconds; silent H.264, longest edge at most1920; crop=none; no generative substitution.
+
+06 黎明之城
+File:Whanganui timelapse at dawn.ogv
+作者：Oliver Strewe
+作品：https://commons.wikimedia.org/wiki/File:Whanganui_timelapse_at_dawn.ogv
+许可：CC BY 4.0 https://creativecommons.org/licenses/by/4.0
+改动：Extract from 0 seconds, up to 12 seconds; silent H.264, longest edge at most1920; crop=none; no generative substitution.
+
+07 安第斯云影
+File:Timelapse Tilcara - casa los molles hostel, Jujuy, Argentina.webm
+作者：Yanito
+作品：https://commons.wikimedia.org/wiki/File:Timelapse_Tilcara_-_casa_los_molles_hostel,_Jujuy,_Argentina.webm
+许可：CC BY 3.0 https://creativecommons.org/licenses/by/3.0
+改动：Extract from 28 seconds, up to 12 seconds; official HD derivative or original source, silent H.264, longest edge at most1920; crop=none; no generative substitution.
+
+08 绿野秘境
+File:Erawan National Park Waterfall Video by Don Ramey Logan.webm
+作者：Don Ramey Logan
+作品：https://commons.wikimedia.org/wiki/File:Erawan_National_Park_Waterfall_Video_by_Don_Ramey_Logan.webm
+许可：CC BY 4.0 https://creativecommons.org/licenses/by/4.0
+改动：Extract from 0 seconds, up to 12 seconds; silent H.264, longest edge at most1920; crop=none; no generative substitution.
+
+09 暮色天际线
+File:Hochhäusern.webm
+作者：AbdulrasheedGambo
+作品：https://commons.wikimedia.org/wiki/File:Hochh%C3%A4usern.webm
+许可：CC0 http://creativecommons.org/publicdomain/zero/1.0/deed.en
+改动：Extract from 0 seconds, up to 12 seconds; silent H.264, longest edge at most1920; crop=none; no generative substitution.
+
+10 蓝花微风
+File:Close-up View Of Blue Flowers.webm
+作者：Author Zuzanna Musial
+作品：https://commons.wikimedia.org/wiki/File:Close-up_View_Of_Blue_Flowers.webm
+许可：CC0 http://creativecommons.org/publicdomain/zero/1.0/deed.en
+改动：Extract from 0 seconds, up to 12 seconds; silent H.264, longest edge at most1920; crop=4:5; no generative substitution.
+
+11 织物与肖像
+File:High Fashion Saree Shoot - Shrubabati - MD Entertainment - Trailer.webm
+作者：MD Entertainment (MD Entertainment Fashion)
+作品：https://commons.wikimedia.org/wiki/File:High_Fashion_Saree_Shoot_-_Shrubabati_-_MD_Entertainment_-_Trailer.webm
+许可：CC BY 3.0 https://creativecommons.org/licenses/by/3.0
+改动：Extract from 56 seconds, up to 12 seconds; official HD derivative or original source, silent H.264, longest edge at most1920; crop=4:5; no generative substitution.
+
+13 玻璃与光
+File:Harriet Schwarzrock Installation Time-lapse at Australian Love Stories exhibition National Portrait Gallery Canberra Australia.webm
+作者：National Portrait Gallery
+作品：https://commons.wikimedia.org/wiki/File:Harriet_Schwarzrock_Installation_Time-lapse_at_Australian_Love_Stories_exhibition_National_Portrait_Gallery_Canberra_Australia.webm
+许可：CC BY 3.0 https://creativecommons.org/licenses/by/3.0
+改动：Extract from 30 seconds, up to 5.5 seconds; official HD derivative or original source, silent H.264, longest edge at most1920; crop=square; no generative substitution.
+
+14 云的迁徙
+File:2011-08-05 21-45-00-timelapse-clouds-seloncourt.ogv
+作者：Thomas Bresson
+作品：https://commons.wikimedia.org/wiki/File:2011-08-05_21-45-00-timelapse-clouds-seloncourt.ogv
+许可：CC BY 3.0 https://creativecommons.org/licenses/by/3.0
+改动：Extract from 0 seconds, up to 12 seconds; silent H.264, longest edge at most1920; crop=none; no generative substitution.
+
+15 溪流肌理
+File:Running Stream Of Water.webm
+作者：jLasWilson
+作品：https://commons.wikimedia.org/wiki/File:Running_Stream_Of_Water.webm
+许可：CC0 http://creativecommons.org/publicdomain/zero/1.0/deed.en
+改动：Extract from 0 seconds, up to 12 seconds; silent H.264, longest edge at most1920; crop=none; no generative substitution.
+
+16 猎户座漫游
+File:Flight through Orion Nebula in visible light (Hubblecast 106b excerpt).webm
+作者：NASA, ESA, F. Summers, G. Bacon, Z. Levay, J. DePasquale, L. Hustak, L. Frattare, M. Robberto (STScI), R. Hurt (Caltech/IPAC)
+作品：https://commons.wikimedia.org/wiki/File:Flight_through_Orion_Nebula_in_visible_light_(Hubblecast_106b_excerpt).webm
+许可：CC BY 4.0 https://creativecommons.org/licenses/by/4.0
+改动：Extract from 0 seconds, up to 12 seconds; silent H.264, longest edge at most1920; crop=none; no generative substitution.
+
+17 种子与微光
+File:Close-up Poppy Seed Pods in a Garden.webm
+作者：Author Zuzanna Musial
+作品：https://commons.wikimedia.org/wiki/File:Close-up_Poppy_Seed_Pods_in_a_Garden.webm
+许可：CC0 http://creativecommons.org/publicdomain/zero/1.0/deed.en
+改动：Extract from 0 seconds, up to 12 seconds; silent H.264, longest edge at most1920; crop=square; no generative substitution.
+
+18 翡翠海湾
+File:Oregon Coast Odyssey- FPV Drone Captures Stunning Ocean Views.webm
+作者：EagleView 🦅
+作品：https://commons.wikimedia.org/wiki/File:Oregon_Coast_Odyssey-_FPV_Drone_Captures_Stunning_Ocean_Views.webm
+许可：CC BY 3.0 https://creativecommons.org/licenses/by/3.0
+改动：Extract from 0 seconds, up to 12 seconds; silent H.264, longest edge at most1920; crop=none; no generative substitution.
+
+20 烘焙日记
+File:Baking cookies.ogv
+作者：Robert Cole
+作品：https://commons.wikimedia.org/wiki/File:Baking_cookies.ogv
+许可：CC0 http://creativecommons.org/publicdomain/zero/1.0/deed.en
+改动：Extract from 0 seconds, up to 12 seconds; silent H.264, longest edge at most1920; crop=none; no generative substitution.
+
+21 字母定格
+File:Coffee-Mate Cookies Stopmotion.webm
+作者：Daniel Pryde
+作品：https://commons.wikimedia.org/wiki/File:Coffee-Mate_Cookies_Stopmotion.webm
+许可：CC BY 3.0 https://creativecommons.org/licenses/by/3.0
+改动：Extract from 0 seconds, up to 12 seconds; silent H.264, longest edge at most1920; crop=none; no generative substitution.
+
+22 花开瞬间
+File:Webcam Blumen Zeitraffer - Webcam Flower Timelapse (Royalty Free) (Kostenlos) 1920x1080p 60FPS.webm
+作者：https://www.youtube.com/user/FreeSwissVideo
+作品：https://commons.wikimedia.org/wiki/File:Webcam_Blumen_Zeitraffer_-_Webcam_Flower_Timelapse_(Royalty_Free)_(Kostenlos)_1920x1080p_60FPS.webm
+许可：CC BY 3.0 https://creativecommons.org/licenses/by/3.0
+改动：Extract from 0 seconds, up to 12 seconds; silent H.264, longest edge at most1920; crop=square; no generative substitution.
+
+23 深海精灵
+File:Phantom Jellyfish Off of the Melchior Islands.webm
+作者：MasterfulNerd
+作品：https://commons.wikimedia.org/wiki/File:Phantom_Jellyfish_Off_of_the_Melchior_Islands.webm
+许可：CC BY 4.0 https://creativecommons.org/licenses/by/4.0
+改动：Extract from 0 seconds, up to 12 seconds; silent H.264, longest edge at most1920; crop=none; no generative substitution.
+
+24 白色舞台
+File:THE GREATEST FASHION FILM -8.webm
+作者：The Greatest Magazine
+作品：https://commons.wikimedia.org/wiki/File:THE_GREATEST_FASHION_FILM_-8.webm
+许可：CC BY 3.0 https://creativecommons.org/licenses/by/3.0
+改动：Extract from 25 seconds, up to 6 seconds; official HD derivative or original source, silent H.264, longest edge at most1920; crop=None; no generative substitution.
